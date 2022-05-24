@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="update">update</string>
+    <string name="add_user">addUser</string>
+    <string name="view_data">viewdata</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="delete">delete</string>
+</resources>
